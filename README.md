@@ -1,45 +1,44 @@
 # GuestCall
 
-**A guest discovery and matching concept for television, live streams, podcasts, and digital media.**
+**Media guest discovery & matching**
 
-GuestCall is designed to help people create a professional guest profile, define the topics and formats they can contribute to, and become discoverable for relevant media opportunities.
+GuestCall is a product concept for connecting **media teams** with relevant **guests, experts, commentators, creators, and contributors** for television, podcasts, live streams, interviews, and digital programs.
 
-The product concept connects two sides of the same workflow:
+## The problem
 
-- People who are available to participate as guests, experts, commentators, creators, or contributors.
-- Media teams looking for relevant people for television programs, social media broadcasts, interviews, podcasts, and live streams.
+Finding the right guest is often fragmented across personal contacts, social media, spreadsheets, and repeated manual research.
 
-## Product idea
+## The product
 
-A user creates a profile and specifies:
+GuestCall creates a structured discovery layer where people can present:
 
-- Areas of expertise or interest
-- Preferred media formats
+- Expertise and topics
 - Languages
+- Media formats
 - Availability
-- Relevant background
-- Topics they can speak about
+- Background and experience
+- Areas they are ready to discuss
 
-The platform can then use those signals to make relevant guest-to-program or guest-to-event matches.
+Media teams can then discover people who fit a specific program, topic, event, or live production need.
 
-## Potential use cases
+## Who it can serve
 
-- TV guest discovery
-- Live-stream contributor matching
-- Podcast guest sourcing
-- Expert directories
-- Event speaker discovery
-- Media production research
-- Community and creator collaborations
+**TV & Newsrooms · Podcasts · Digital Publishers · Event Teams · Live-stream Producers · Research Desks · Creator Networks**
+
+## Commercial potential
+
+The concept can support:
+
+**Hosted SaaS · Private newsroom deployment · White-label directories · Expert networks · Media databases · Matching workflows**
 
 ## Status
 
-**Product concept / portfolio showcase**
+**Product concept / portfolio case study**
 
-The public repository is intentionally limited. It does not represent a complete production codebase.
+This repository is intentionally presentation-only. It does **not** contain the production application or proprietary implementation.
 
-## Commercial & IP note
+## IP & source policy
 
-GuestCall is presented here as a product concept and portfolio project. Proprietary source code, infrastructure, private integrations, credentials, production data, and protected business logic are not published in this repository.
+Private source code, infrastructure, credentials, production data, internal workflows, matching logic, and protected commercial implementation are not published here.
 
-For product, partnership, licensing, or implementation discussions, see [DataVista Studio](https://datavista.studio/).
+Built as part of the product work around **[DataVista Studio](https://datavista.studio/)**.
